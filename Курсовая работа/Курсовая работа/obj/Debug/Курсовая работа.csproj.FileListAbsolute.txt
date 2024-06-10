@@ -1,0 +1,10 @@
+C:\Users\andre\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.exe.config
+C:\Users\andre\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.exe
+C:\Users\andre\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.pdb
+C:\Users\andre\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Properties.Resources.resources
+C:\Users\andre\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.exe
+C:\Users\andre\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.pdb
+C:\Users\andre\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.AlgorythmSorting.resources
